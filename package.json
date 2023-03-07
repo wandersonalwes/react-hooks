@@ -1,8 +1,9 @@
 {
   "name": "@wandersonalwes/react-hooks",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "description": "A set of hooks to react",
   "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsup"
   },
