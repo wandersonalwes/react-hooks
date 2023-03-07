@@ -1,0 +1,31 @@
+{
+  "name": "@wandersonalwes/react-hooks",
+  "version": "1.0.0",
+  "description": "A set of hooks to react",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandersonalwes/react-hooks.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react-hooks"
+  ],
+  "author": "Wanderson Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandersonalwes/react-hooks/issues"
+  },
+  "homepage": "https://github.com/wandersonalwes/react-hooks#readme",
+  "peerDependencies": {
+    "react": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "tsup": "^6.6.3",
+    "typescript": "^4.9.5"
+  }
+}
